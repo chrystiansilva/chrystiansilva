@@ -25,10 +25,6 @@ sou fascinado por computação desde criança e atualmente tenho me dedicado a m
 
 ## Meus dados no Github
 
-<!-- <span style="height ">
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=chrystiansilva&show_icons=true&theme=tokyonight)
-</span> -->
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=arthurspk&show_icons=true&theme=tokyonight)
-[![arthurspk](https://github-readme-stats.vercel.app/api/top-langs/?username=arthurspk&hide=html&layout=compact=true&theme=tokyonight)](https://github.com/chrystiansilva/)
+[![arthurspk](https://github-readme-stats.vercel.app/api/top-langs/?username=chrystiansilva&hide=html&layout=compact=true&theme=tokyonight)](https://github.com/chrystiansilva/)
 ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
